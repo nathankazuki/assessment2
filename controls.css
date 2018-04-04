@@ -1,0 +1,19 @@
+#range{
+    background-color: white;
+}
+
+#number{
+    background-color: black;
+    color: white;
+}
+
+#random{
+    background-color: pink;
+    color: purple;
+}
+
+#plus{
+    border-radius: 0px;
+    background-color: grey;
+    color: white;
+}
